@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "fila.h": "c",
+        "unistd.h": "c",
+        "pilha.h": "c",
+        "windows.h": "c"
+    }
+}
